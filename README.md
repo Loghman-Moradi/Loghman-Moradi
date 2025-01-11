@@ -18,3 +18,4 @@
 
 
 <h2 align="right">تماس با من📞</h2>
+<a href="https://instagram.com/loghman_79"><img akign="left" src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram"/></a>
