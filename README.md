@@ -19,3 +19,28 @@
 
 <h2 align="right">تماس با من📞</h2>
 <a href="https://instagram.com/loghman_79"><img akign="left" src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram"/></a>
+
+<br/>
+
+<h2 align="right">الان به چه کارهایی مشغول هستم:✒️</h2>
+
+<h3 align="rigth">🌟توسعه بک اند سایت لیا شاپ استار</h3>
+<h3 align="rigth">🌟یادگیری هوش مصنوعی</h3>
+<h3 align="rigth">🌟تولید محتوا</h3>
+
+<br/>
+
+<h2 align="right">الان دارم با اینها کار میکنم:📚</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
