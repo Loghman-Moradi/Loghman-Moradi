@@ -15,7 +15,7 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 ### Skills
 
 <p align="left">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="[https://www.python.org/community/logos/python-logo.png](https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/images%20(2).jpg?raw=true)" width="36" height="36" alt="python" />
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/community/logos/python-logo.pnghttps://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/images%20(2).jpg?raw=true" width="36" height="36" alt="python" />
     python</a>  
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
