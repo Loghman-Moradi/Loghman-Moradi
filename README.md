@@ -41,6 +41,10 @@ _____
   <a href="http://sabzlearn.ir/">
     <img src="https://img.shields.io/badge/Website-www.Sablearn.ir-green?style=flat&logo=google-chrome"/>
   </a>
+  <a href="http://instagram.com/loghman_79/">
+    <img src="https://img.shields.io/badge/Instagram-@loghman_79-red?style=flat&logo=instagram"/>
+  </a>
+  
 </p>
 
 
