@@ -29,7 +29,7 @@
 
 _____
 
-<a hred="">
+<a href="http://github.com/Loghman-Moradi">
   <img src="https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loghman-Moradi" />
 <a/>
@@ -38,7 +38,7 @@ _____
 <h2>📞 &nbsp; Connect Me</h2>
 
 <p align="center">
-  <a href="">
+  <a href="http://sabzlearn.ir/">
     <img src="https://img.shields.io/badge/Website-www.Sablearn.ir-green?style=flat&logo=google-chrome"/>
   </a>
 </p>
