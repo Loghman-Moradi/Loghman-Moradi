@@ -16,11 +16,18 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 ### Skills
 
 <p align="left">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/download.jpg?raw=true" width="36" height="36"/>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src=https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/image.png?raw=true" width="50" height="50"/>
     </a>  
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/download%20(2).jpg?raw=true" width="36" height="36"/>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/dja.png?raw=true" width="50" height="50"/>
     </a>  
-    
+    </a>  
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="" width="50" height="50"/>
+    </a> 
+    <a href="https:///" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/Git_icon.svg.png?raw=true" width="50" height="50"/>
+    </a>
+    </a>  
+    <a href="https:///" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/github-logo.jpg?raw=true" width="50" height="50"/>
+    </a>
 </p>
 
 ### Social
