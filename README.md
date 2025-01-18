@@ -1,71 +1,33 @@
-# Hi there! 👋 I'm Loghman Moradi
 
-[Your Profile Picture]
+Hi 🙋‍♂️ My name is Loghman Moradi
+======
+Backend Developer
 
-Welcome to my GitHub profile! I'm a [Your Profession, e.g., Web Developer, Data Scientist, Software Engineer, etc.] and I'm passionate about [Your Interests, e.g., learning new technologies, solving complex problems, contributing to open source projects].
+------
+Backend Developer with over 1 Years of professional experience in web  👨‍💻
 
-## About Me 👨‍💻
+- 🌍  I'm based in Delhi-NCR (India)
+- 🖥️  See my portfolio at [Sabzlearn](http://sabzlearn.ir/)
+- ✉️  You can contact me at [logman7979@gmail.com](mailto:ce01010101it@gmail.com)
+- 🧠  I'm learning DRF
+- 🤝  I'm open to collaborating on React based projects
+- ⚡  Professional Developer Ant Coach In Javascript Based Courses
 
-- 🔭 I’m currently working on and learning [Current Projects or Technologies you are interested in].
-- 🌱 I’m currently learning [New Skills].
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about [Topics you are interested in, e.g., Front-end development, Artificial Intelligence, etc.].
-- ⚡ Fun facts: [Your Hobbies]
+### Skills
 
-## Skills 🛠️
+<p align="left">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/download.jpg?raw=true" width="36" height="36"/>
+    </a>  
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/download%20(2).jpg?raw=true" width="36" height="36"/>
+    </a>  
+    
+</p>
 
-### Programming Languages
-- `Python`
-- `JavaScript`
-- `Java`
-- `C++`
-- `...`
+### Social
 
-### Libraries and Frameworks
-- `Django`
-- `React`
-- `Node.js`
-- `TensorFlow`
-- `Pandas`
-- `...`
-
-### Tools
-- `Git`
-- `Docker`
-- `Linux`
-- `...`
-
-## Featured Projects ✨
-
-Here are a few examples of projects I've worked on:
-
-1.  **[Project Name 1]([Project Link 1])**: [A brief description of the project and your contributions].
-2.  **[Project Name 2]([Project Link 2])**: [A brief description of the project and your contributions].
-3.  **[Project Name 3]([Project Link 3])**: [A brief description of the project and your contributions].
-
-[You can also include one or two images of your projects here]
-
-## Connect With Me 📧
-
-- [Your LinkedIn Profile Link]([LinkedIn Link])
-- [Your Twitter Profile Link]([Twitter Link])
-- [Your Website or Blog Link]([Website/Blog Link])
-- [Your Email Address](mailto:[Your Email])
-
-## My GitHub Stats 📊
-
-[Use tools like GitHub Readme Stats here to showcase your statistics]
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true)](https://github.com/YourGithubUsername)
-
-## Languages I'm into 💬
-
-[Use GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YourGithubUsername)](https://git.io/streak-stats)
-
-## Volunteer Work
-
-[Add your volunteer works here if you have any]
-
-<br>
-Thanks for visiting! I hope you enjoy my projects. 😊
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
+</p>
