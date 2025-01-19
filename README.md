@@ -1,17 +1,25 @@
 
-Hi 🙋‍♂️ My name is Loghman Moradi
-======
-Backend Developer
+# Hi 🙋‍♂️ My name is Loghman Moradi
 
-------
+
+
+
+
+
+
 Backend Developer with over 1 Years of professional experience in web  👨‍💻
 
-- 🌍  I'm based in Delhi-NCR (India)
-- 🖥️  See my portfolio at [Sabzlearn](http://sabzlearn.ir/)
-- ✉️  You can contact me at [logman7979@gmail.com](mailto:ce01010101it@gmail.com)
+- 🌍  I live in Tehran.
+- 🖥️  I love learning new things.
 - 🧠  I'm learning DRF
-- 🤝  I'm open to collaborating on React based projects
-- ⚡  Professional Developer Ant Coach In Javascript Based Courses
+
+--------------------
+
+<a href="http://github.com/Loghman-Moradi">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loghman-Moradi" />
+<a/>
+
 
 ### Skills
 
