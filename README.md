@@ -2,8 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Loghman+Moradi+;I+am+a+Python+programmer;" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  
 ![My Animation](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
+</div>
 
 
 
@@ -16,11 +19,16 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 
 ![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-<a href="http://github.com/Loghman-Moradi">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loghman-Moradi" />
-<a/>
+<div style="text-align: right;">
+  <p>
+    <a href="http://github.com/Loghman-Moradi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loghman-Moradi"/>
+    <a/>
+  </p>
+</div>
 
+![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### Skills
 
@@ -34,7 +42,7 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 </p>
 </div>
 
-
+![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### Social
 
@@ -44,3 +52,5 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
 </p>
+
+![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
