@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Loghman+Moradi+;I+am+a+Python+programmer;" alt="Typing SVG" />
 </div>
 
-![My Animation](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+![My Animation](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
 
 
@@ -14,7 +14,7 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 - 🖥️  I love learning new things.
 - 🧠  I'm learning DRF
 
---------------------
+![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 <a href="http://github.com/Loghman-Moradi">
   <img src="https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&show_icons=true&theme=radical" />
