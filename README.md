@@ -19,14 +19,9 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 
 ![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-<div style="text-align: right;">
-  <p>
-    <a href="http://github.com/Loghman-Moradi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&show_icons=true&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loghman-Moradi"/>
-    <a/>
-  </p>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Loghman-Moradi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loghman-Moradi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
