@@ -11,7 +11,7 @@
 
 
 
-Backend Developer with over 1 Years of professional experience in web  👨‍💻
+### About me 👨‍💻
 
 - 🌍  I live in Tehran.
 - 🖥️  I love learning new things.
@@ -19,6 +19,9 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 
 
 ![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+
+ ### 📊 GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=Loghman-Moradi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Loghman-Moradi&theme=radical&hide_border=false)<br/>
@@ -44,9 +47,6 @@ Backend Developer with over 1 Years of professional experience in web  👨‍�
 
 <p align="left">
     <a href="https://instagram.com/loghman_79" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
 </p>
 
 ![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
