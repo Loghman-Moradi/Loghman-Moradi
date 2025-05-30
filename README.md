@@ -33,12 +33,13 @@
 
 <div style="text-align: right;">
 <p style="display: inline-block; margin-right: 10px;">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/image.png?raw=true" width="50" height="50"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/dja.png?raw=true" width="50" height="50"/></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50"/></a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/cropped_image%20(1).png?raw=true" width="50" height="50"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/Git_icon.svg.png?raw=true" width="50" height="50"/></a>
-    <a href="https://github.com"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/github123.png?raw=true" width="50" height="50"/></a>
-    <a href="https://www.postgresql.org/"><img src="https://github.com/Loghman-Moradi/Loghman-Moradi/blob/main/cropped_image.png?raw=true" width="50" height="50"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/></a>
+    <a href="https://github.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a>
+    <a href="https://www.postgresql.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50" height="50"/></a>
+    <a href="https://hub.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/></a>
 </p>
 </div>
 
@@ -47,7 +48,7 @@
 ### Social
 
 <p align="left">
-    <a href="https://instagram.com/loghman_79" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/loghman-moradi79" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32" height="32" /></a>
 </p>
 
 ![My Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
